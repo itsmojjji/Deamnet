@@ -303,6 +303,7 @@
             "type": "select",
             "proxies": [
                 "Best Ping",
+                "DIRECT",
                 "london @Deamnet کانال",
                 "nuremberg @Deamnet کانال",
                 "amsterdam @Deamnet کانال",
@@ -320,6 +321,7 @@
             "interval": 30,
             "tolerance": 50,
             "proxies": [
+                "DIRECT",
                 "london @Deamnet کانال",
                 "nuremberg @Deamnet کانال",
                 "amsterdam @Deamnet کانال",
