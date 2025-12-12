@@ -321,7 +321,6 @@
             "interval": 30,
             "tolerance": 50,
             "proxies": [
-                "DIRECT",
                 "london @Deamnet کانال",
                 "nuremberg @Deamnet کانال",
                 "amsterdam @Deamnet کانال",
